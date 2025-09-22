@@ -105,18 +105,4 @@ The program then identifies the **top 10 most similar pairs of books**.
 -   Support additional stop words via an external file.
 -   Save similarity results to an output file.
 
-------------------------------------------------------------------------
 
-## 📝 License
-
-This project is licensed under the **MIT License** -- you're free to
-use, modify, and distribute it.
-
-------------------------------------------------------------------------
-
-## 👨‍💻 Author
-
-**Aaditya Raj Singhaniya**\
-📍 Bareilly, Uttar Pradesh\
-📧 <aadityaraj1473@gmail.com>\
-💻 GitHub: [ars-0105](https://github.com/ars-0105)
