@@ -11,7 +11,7 @@ The program then identifies the **top 10 most similar pairs of books**.
 
 ## 📂 Project Structure
 
--   **main.cpp** → The main program file (your provided code).
+-   **projectT1.cpp** → The main program file (your provided code).
 -   **book-Txt/** → A folder containing text files (`book1.txt`,
     `book2.txt`, ..., `book64.txt`).
 
@@ -60,7 +60,7 @@ The program then identifies the **top 10 most similar pairs of books**.
 3.  **Compile the program**:
 
     ``` bash
-    g++ -o similarity main.cpp
+    g++ -o similarity projectT1.cpp
     ```
 
 4.  **Run the program**:
